@@ -3,4 +3,4 @@
 整数秒からのズレが0.01秒未満であれば文字が青くなります。<br>
 整数秒でラップすれば文字がオレンジ色になります。
 
-https://natootoki.github.io/clickclock/index.html
+https://natootoki.github.io/clickclock/
